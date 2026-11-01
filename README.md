@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:3ECF8E&height=180&section=header&text=Nur%20Syifaa%20Adilla&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <h1 align="center">Hi, I'm Syifaa 👋</h1>
 
