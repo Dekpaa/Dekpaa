@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Developer%20%7C%20IT%20Support-3ECF8E" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-3ECF8E" />
 </p>
 
 <p align="center">
