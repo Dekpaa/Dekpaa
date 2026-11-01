@@ -85,16 +85,6 @@ An educational quiz application developed to help networking students learn and 
 
 **Technologies:** Refer to project repository.
 
----
-
-## 🏆 Achievements
-
-- Dean's List Award – Every Semester
-- PIXEL-IT'26 – Top 15 Project Selection
-- Diploma Final Year Project – Top 12 Project Selection
-- First Class Diploma in Information Technology
-- Diploma CGPA: 3.78
-- Bachelor's Degree CGPA: 3.70
 
 ---
 
