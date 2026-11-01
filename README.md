@@ -1,138 +1,119 @@
 
-<!-- PROFILE HEADER -->
-
 <h1 align="center">Hi, I'm Syifaa Adilla 👋</h1>
 
 <h3 align="center">Software Developer | Mobile Developer | Web Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Dekpaa">
-    <img src="https://komarev.com/ghpvc/?username=Dekpaa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <a href="https://linkedin.com/in/syifaa-adilla">LinkedIn</a> •
+  <a href="https://portfolio-syifaa.vercel.app">Portfolio</a> •
+  <a href="mailto:syifaaadilla16@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👩🏻‍💻 About Me
 
-I'm a recent **Bachelor of Information Technology (Hons) graduate** from **Universiti Tun Hussein Onn Malaysia (UTHM)**, passionate about building practical software solutions and user-friendly applications.
+I'm a recent **Bachelor of Information Technology (Hons) graduate** from **Universiti Tun Hussein Onn Malaysia (UTHM)** with a passion for developing practical software solutions and user-friendly applications.
 
-I have hands-on experience in software development, mobile and web applications, application testing, troubleshooting, and IT support.
+I have hands-on experience in web and mobile development, application testing, troubleshooting, and IT support. I enjoy solving problems, exploring new technologies, and building applications that address real-world needs.
 
 - 🎓 Bachelor of Information Technology (Hons), UTHM
 - 💻 Interested in Software Development, Web & Mobile Development
-- 🚀 Experienced in developing real-world applications and internal systems
-- 🌱 Always learning and improving my technical skills
+- 🚀 Experienced in developing applications and internal management systems
+- 🌱 Continuously learning and improving my technical skills
 - 📍 Malaysia
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
-### Programming Languages
+**Programming Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,dart,java,php,python,cs" />
 </p>
 
-### Web Development
+**Web Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-### Mobile Development
+**Mobile Development**
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
 </p>
 
-### Database & Backend
+**Database & Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql" />
 </p>
 
-### Tools & Platforms
+**Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 UTHM Share A Ride Application
-A ride-sharing mobile application designed to connect UTHM students with drivers and passengers, making campus transportation more convenient.
+### 1. UTHM Share A Ride Application
+
+A mobile ride-sharing application developed to connect UTHM students with drivers and passengers, making campus transportation more convenient.
 
 **Technologies:** Flutter, Dart, Firebase Authentication, Cloud Firestore, Firebase Storage.
 
-### 📅 ICS Calendar Management System
-An internal calendar and task management system developed during my internship at ICS Consulting Sdn. Bhd. to improve scheduling, task coordination and information accessibility.
+### 2. ICS Calendar Management System
+
+An internal calendar and task management system developed during my internship at ICS Consulting Sdn. Bhd. to improve scheduling, task coordination, and information accessibility. Currently used by 11 staff members.
 
 **Technologies:** Next.js, React, TypeScript, Supabase, Tailwind CSS.
 
-### 🦺 SSB Smart Safety Application
-A mobile application developed to support workplace safety activities and provide employees with a digital platform for safety-related tasks.
+### 3. SSB Smart Safety Application
 
-**Technologies:** Flutter, Dart, Firebase.
+A mobile application developed during my diploma internship to support workplace safety activities and provide employees with a digital platform for safety-related tasks.
 
-### 📝 DCN Quiz Application
-An educational quiz application developed to support networking students in learning and practising Data Communication and Networking concepts.
+**Technologies:** Flutter, Firebase.
 
-**Technologies:** Java / C++ (as applicable to the project implementation).
+### 4. DCN Quiz Application
+
+An educational quiz application developed to help networking students learn and practise Data Communication and Networking concepts.
+
+**Technologies:** Refer to project repository.
 
 ---
 
 ## 🏆 Achievements
 
-- 🎓 Dean's List Award – Every Semester
-- 🏅 PIXEL-IT'26 – Top 15 Project Selection
-- 🏆 Diploma Final Year Project – Top 12 Project Selection
-- 🥇 First Class Diploma in Information Technology
-- 📊 Diploma CGPA: 3.78
-- 📊 Bachelor's Degree CGPA: 3.70
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dekpaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dekpaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dekpaa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dekpaa&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
+- Dean's List Award – Every Semester
+- PIXEL-IT'26 – Top 15 Project Selection
+- Diploma Final Year Project – Top 12 Project Selection
+- First Class Diploma in Information Technology
+- Diploma CGPA: 3.78
+- Bachelor's Degree CGPA: 3.70
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/syifaa-adilla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<p>
+  <a href="https://linkedin.com/in/syifaa-adilla">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-syifaa.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  <a href="https://portfolio-syifaa.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:syifaaadilla16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i>
+  Thanks for visiting my profile! Feel free to explore my repositories.
 </p>
