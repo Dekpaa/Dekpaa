@@ -1,6 +1,6 @@
 <h1 align="center">Nur Syifaa Adilla</h1>
 <p align="center">
-  <b>IT Graduate · Web & Mobile Developer</b><br>
+  <b>IT Graduate </b><br>
   Bachelor of Information Technology with Honours, Universiti Tun Hussein Onn Malaysia<br>
   📍 Pulau Pinang, Malaysia
 </p>
